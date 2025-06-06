@@ -1,0 +1,21 @@
+# === Java compiled files ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === Logs ===
+*.log
+
+# === Eclipse specific ===
+.settings/
+.project
+.classpath
+
+# === Build output ===
+bin/
+target/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
